@@ -1,0 +1,30 @@
+{
+  "name": "http_server_project",
+  "version": "1.0.0",
+  "description": "This is Zuri assignment for creating Http server Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hagertyne/Node_Http_Server.git"
+  },
+  "keywords": [
+    "Http",
+    "server"
+  ],
+  "author": "Hagernesh Tadesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hagertyne/Node_Http_Server/issues"
+  },
+  "homepage": "https://github.com/Hagertyne/Node_Http_Server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
